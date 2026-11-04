@@ -1,0 +1,19 @@
+CORRESPONDENCE REFERENCE DATABASE LICENSE AGREEMENT
+
+Source Data: International Correspondence Chess Federation (ICCF)
+Compilation & Indexing: [Markus Hinterreiter / Brett]
+
+1. Ownership & Database Rights
+The underlying correspondence game collection is provided courtesy of the International Correspondence Chess Federation (ICCF). The ICCF retains all applicable Sui Generis Database Rights (Directive 96/9/EC) and proprietary rights in the source dataset. This compiled derivative (filtered to games from 2021–present with both players rated >= 2375 Elo, truncated at 70 plies) is distributed with the express permission of the ICCF.
+
+2. Grant of License (Strictly Non-Commercial)
+Subject to the terms of this Agreement, you are granted a revocable, non-exclusive, non-transferable, royalty-free license to download and use this database solely for personal, non-commercial purposes (including private chess study, opening preparation, and academic research).
+
+3. Commercial Restrictions
+Under no circumstances may you:
+(a) Sell, resell, rent, lease, or charge any fee for access to this database or any substantial part thereof;
+(b) Bundle, package, or distribute this database alongside any paid software, subscription service, course, or commercial product (even if the database itself is designated as "free"); or
+(c) Extract or re-utilize the whole or a substantial part of the contents of this database for any commercial third-party platform without prior written authorization from the ICCF.
+
+4. Disclaimer of Warranty
+This database is provided "AS IS" without warranty of any kind. Neither the ICCF nor the software author shall be liable for any claim, damages, or other liability arising from the use of this database.
